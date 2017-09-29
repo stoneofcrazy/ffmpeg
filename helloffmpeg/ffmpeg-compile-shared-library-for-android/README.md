@@ -1,0 +1,1 @@
+﻿ffmpeg文件夹下面的build_android_arm.sh即是编译arm的脚本文件，改成自己对应的路径即可，这个是原来一个老兄的github项目，结果链接找不到了。。
